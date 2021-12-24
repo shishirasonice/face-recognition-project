@@ -1,0 +1,23 @@
+body
+{
+    color: white;
+    background-color: lightblue;
+}
+
+.heading
+{
+    width: 70%;
+    font-size: 20px;
+}
+
+#camera
+{
+    height: 350px;
+    border: 1px dashed darkblue;
+    width: 350px;
+}
+
+.name_of_parents, #result_image_name, #result_image_accuracy
+{
+    color: blue;
+}
